@@ -59,3 +59,13 @@
 > Access the admin panel. What is the value of the flag?
 
 **Answer**: THM{ADM1N_AC3SS}
+
+## Day 4 - Santa's Running Behind
+
+> What valid password can you use to access the "santa" account?
+
+**Answer**: cookie
+
+> What is the flag in Santa's itinerary?
+
+**Answer**: THM{SANTA_DELIVERS}
