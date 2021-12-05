@@ -69,3 +69,9 @@
 > What is the flag in Santa's itinerary?
 
 **Answer**: THM{SANTA_DELIVERS}
+
+## Day 5 - Pesky Elf Forum
+
+> What flag did you get when you disabled the plugin?
+
+**Answer**: THM{NO_MORE_BUTTMAS}
