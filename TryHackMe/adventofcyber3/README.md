@@ -101,3 +101,21 @@
 > The web application logs all users' requests, and only authorized users can read the log file. Use the LFI to gain RCE via the log file page. What is the hostname of the webserver? The log file location is at `./includes/logs/app_access.log`.
 
 **Answer**: lfi-aoc-awesome-59aedca683fff9261263bb084880c965
+
+## Day 7 - Migration Without Security
+
+> Interact with the MongoDB server to find the flag. What is the flag?
+
+**Answer**: THM{8814a5e6662a9763f7df23ee59d944f9}
+
+> Can you log into the application that Grinch Enterprise controls as `admin` and retrieve the flag?
+
+**Answer**: THM{b6b304f5d5834a4d089b570840b467a8}
+
+> Once you are logged in, use the gift search page to list all usernames that have `guest` roles. What is the flag?
+
+**Answer**: THM{2ec099f2d602cc4968c5267970be1326}
+
+> Use the gift search page to perform NoSQL injection and retrieve the `mcskidy` record. What is the details record?
+
+**Answer**: ID:6184f516ef6da50433f100f4:mcskidy:admin
