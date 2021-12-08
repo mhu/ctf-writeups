@@ -119,3 +119,53 @@
 > Use the gift search page to perform NoSQL injection and retrieve the `mcskidy` record. What is the details record?
 
 **Answer**: ID:6184f516ef6da50433f100f4:mcskidy:admin
+
+## Day 8 - Santa's Bag of Toys
+
+> What operating system is Santa's laptop running ("OS Name")?
+
+**Answer**: Microsoft Windows 11 Pro
+
+> What was the password set for the new "backdoor" account?
+
+**Answer**: grinchstolechristmas
+
+> In one of the transcription logs,  the bad actor interacts with the target under the new backdoor user account, and copies a unique file to the Desktop. Before it is copied to the Desktop, what is the full path of the original file?
+
+**Answer**: C:\Users\santa\AppData\Local\Microsoft\Windows\UsrClass.dat
+
+> The actor uses a Living Off The Land binary (LOLbin) to encode this file, and then verifies it succeeded by viewing the output file. What is the name of this LOLbin?
+
+**Answer**: certutil.exe
+
+> What specific folder name clues us in that this might be publicly accessible software hosted on a code-sharing platform?
+
+**Answer**: .github
+
+> Additionally, there is a unique folder named "Bag of Toys" on the Desktop! This must be where Santa prepares his collection of toys, and this is certainly sensitive data that the actor could have compromised. What is the name of the file found in this folder?
+
+**Answer**: bag_of_toys.zip
+
+> What is the name of the user that owns the SantaRat repository?
+
+**Answer**: Grinchiest
+
+> What is the name of the repository that seems especially pertinent to our investigation?
+
+**Answer**: operation-bag-of-toys
+
+> What is the name of the executable that installed a unique utility the actor used to collect the bag of toys?
+
+**Answer**: uharc-cmd-install.exe
+
+> Following this, the actor looks to have removed everything from the bag of toys, and added in new things like coal, mold, worms, and more!  What are the contents of these "malicious" files (coal, mold, and all the others)?
+
+**Answer**: GRINCHMAS
+
+> What is the password to the original bag_of_toys.uha archive?
+
+**Answer**: TheGrinchiestGrinchmasOfAll
+
+> How many original files were present in Santa's Bag of Toys?
+
+**Answer**:228
