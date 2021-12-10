@@ -199,3 +199,37 @@
 > In the FTP section, what is the content of the secret.txt file?
 
 **Answer**: 123^-^321
+
+## Day 10 - Offensive Is The Best Defence
+
+> Help McSkidy and `run nmap -sT MACHINE_IP`. How many ports are open between 1 and 100?
+
+**Answer**: 2
+
+> What is the smallest port number that is open?
+
+**Answer**: 22
+
+> What is the service related to the highest port number you found in the first question?
+
+**Answer**: HTTP
+
+> Now run nmap -sS 10.10.217.4. Did you get the same results? (Y/N)
+
+**Answer**: Y
+
+> If you want Nmap to detect the version info of the services installed, you can use `nmap -sV 10.10.217.4`. What is the version number of the web server?
+
+**Answer**: Apache httpd 2.4.49
+
+> What is the CVE number of the vulnerability that was solved in version 2.4.51?
+
+**Answer**: CVE-2021-42013
+
+> She explains that adding `-p1-65535` or `-p-` will scan all 65,535 TCP ports instead of only scanning the 1000 most common ports. What is the port number that appeared in the results now?
+
+**Answer**: 20212
+
+> What is the name of the program listening on the newly discovered port?
+
+**Answer**: telnetd
