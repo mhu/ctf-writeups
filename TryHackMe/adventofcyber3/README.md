@@ -233,3 +233,29 @@
 > What is the name of the program listening on the newly discovered port?
 
 **Answer**: telnetd
+
+## Day 11 - Where Are The Reindeers?
+
+> There is an open port related to MS SQL Server accessible over the network. What is the port number?
+
+**Answer**: 1433
+
+> If the connection is successful, you will get a prompt. What is the prompt that you have received?
+
+**Answer**: 1>
+
+> What is the first name of the reindeer of id 9?
+
+**Answer**: Rudolph
+
+> Check the table schedule. What is the destination of the trip scheduled on December 7?
+
+**Answer**: Prague
+
+> Check the table presents. What is the quantity available for the present “Power Bank”?
+
+**Answer**: 25000
+
+> There is a flag hidden in the `grinch` user's home directory. What are its contents?
+
+**Answer**: THM{YjtKeUy2qT3v5dDH}
