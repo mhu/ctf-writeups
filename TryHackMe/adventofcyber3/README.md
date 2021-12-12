@@ -285,3 +285,7 @@
 > It seems that Grinch Enterprises has forgotten their SSH keys on our system. One of the shares contains a private key used for SSH authentication (id_rsa). What is the name of the share?
 
 **Answer**: confidential
+
+> What is the MD5 sum of id_rsa?
+
+**Answer**: 3e2d315a38f377f304f5598dc2f044de
