@@ -259,3 +259,29 @@
 > There is a flag hidden in the `grinch` user's home directory. What are its contents?
 
 **Answer**: THM{YjtKeUy2qT3v5dDH}
+
+## Day 12 - Sharing Without Caring
+
+> How many TCP ports are open?
+
+**Answer**: 7
+
+> Which port is detected by Nmap as NFS or using the mountd service?
+
+**Answer**: 2049
+
+> How many shares did you find?
+
+**Answer**: 4
+
+> How many shares show “everyone”?
+
+**Answer**: 3
+
+> What is the title of file 2680-0.txt?
+
+**Answer**: Meditations
+
+> It seems that Grinch Enterprises has forgotten their SSH keys on our system. One of the shares contains a private key used for SSH authentication (id_rsa). What is the name of the share?
+
+**Answer**: confidential
