@@ -319,3 +319,21 @@
 > The Grinch forgot to delete a file where he kept notes about his schedule! Where can we find him at 5:30?
 
 **Answer**: jazzercize
+
+## Day 14 - Dev(Insecure)Ops
+
+> How many pages did the dirb scan find with its default wordlist?
+
+**Answer**: 4
+
+> How many scripts do you see in the /home/thegrinch/scripts folder?
+
+**Answer**: 4
+
+> What are the five characters following $6$G in pepper's password hash?
+
+**Answer**: ZUP42
+
+> What is the content of the flag.txt file on the Grinch's user’s desktop?
+
+**Answer**: DI3H4rdIsTheBestX-masMovie!
