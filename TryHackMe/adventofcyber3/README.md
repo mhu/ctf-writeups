@@ -337,3 +337,7 @@
 > What is the content of the flag.txt file on the Grinch's user’s desktop?
 
 **Answer**: DI3H4rdIsTheBestX-masMovie!
+
+## Day 15 - The Grinchs day off
+
+No answers needed!
