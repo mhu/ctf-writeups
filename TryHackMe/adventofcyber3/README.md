@@ -341,3 +341,71 @@
 ## Day 15 - The Grinchs day off
 
 No answers needed!
+
+## Day 16 - Ransomware Madness
+
+> What is the operator's username?
+
+**Answer**: GrinchWho31
+
+> What social media platform is the username associated with?
+
+**Answer**: Twitter
+
+> What is the cryptographic identifier associated with the operator?
+
+**Answer**: 1GW8QR7CWW3cpvVPGMCF5tZz4j96ncEgrVaR
+
+> What platform is the cryptographic identifier associated with?
+
+**Answer**: Keybase.io
+
+> What is the bitcoin address of the operator?
+
+**Answer**: bc1q5q2w2x6yka5gchr89988p2c8w8nquem6tndw2f
+
+> What platform does the operator leak the bitcoin address on?
+
+**Answer**: GitHub
+
+> What is the operator's personal email?
+
+**Answer**: DonteHeath21@gmail.com
+
+> What is the operator's real name?
+
+**Answer**: Donte Heath
+
+## Day 17 - Elf Leaks
+
+> What is the name of the S3 Bucket used to host the HR Website announcement?
+
+**Answer**: images.bestfestivalcompany.com
+
+> What is the message left in the flag.txt object from that bucket?
+
+**Answer**: It's easy to get your elves data when you leave it so easy to find!
+
+> What other file in that bucket looks interesting to you?
+
+**Answer**: wp-backup.zip
+
+> What is the AWS Access Key ID in that file?
+
+**Answer**: AKIAQI52OJVCPZXFYAOI
+
+> What is the AWS Account ID that access-key works for?
+
+**Answer**: 019181489476
+
+> What is the Username for that access-key?
+
+**Answer**: ElfMcHR@bfc.com
+
+> There is an EC2 Instance in this account. Under the TAGs, what is the Name of the instance?
+
+**Answer**: HR-Portal
+
+> What is the database password stored in Secrets Manager?
+
+**Answer**: Winter2021!
