@@ -409,3 +409,21 @@ No answers needed!
 > What is the database password stored in Secrets Manager?
 
 **Answer**: Winter2021!
+
+## Day 18 - Playing With Containers
+
+> What command will list container images stored in your local container registry?
+
+**Answer**: docker images
+
+> What command will allow you to save a docker image as a tar archive?
+
+**Answer**: docker save
+
+> What is the name of the file (including file extension) for the configuration, repository tags, and layer hash values stored in a container image?
+
+**Answer**: manifest.json
+
+> What is the token value you found for the bonus challenge?
+
+**Answer**: 7095b3e9300542edadbc2dd558ac11fa
