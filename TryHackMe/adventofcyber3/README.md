@@ -487,3 +487,25 @@ No answers needed!
 > The file has 68 characters in the start known as the known string. It can be appended with whitespace characters upto a limited number of characters. What is the maximum number of total characters that can be in the file?
 
 **Answer**: 128
+
+## Day 21 - Needles In Computer Stacks
+
+> We changed the text in the string $a as shown in the eicaryara rule we wrote, from X5O to X50, that is, we replaced the letter O with the number 0. The condition for the Yara rule is $a and $b and $c and $d. If we are to only make a change to the first boolean operator in this condition, what boolean operator shall we replace the 'and' with, in order for the rule to still hit the file?
+
+**Answer**: or
+
+> What option is used in the Yara command in order to list down the metadata of the rules that are a hit to a file?
+
+**Answer**: -m
+
+> What section contains information about the author of the Yara rule?
+
+**Answer**: metadata
+
+> What option is used to print only rules that did not hit?
+
+**Answer**: -n
+
+> Change the Yara rule value for the `$a` string to `X50`. Rerun the command, but this time with the `-c` option. What is the result?
+
+**Answer**: 0
