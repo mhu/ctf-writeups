@@ -427,3 +427,63 @@ No answers needed!
 > What is the token value you found for the bonus challenge?
 
 **Answer**: 7095b3e9300542edadbc2dd558ac11fa
+
+## Day 19 - Something Phishy Is Going On
+
+> Who was the email sent to? (Answer is the email address)
+
+**Answer**: elfmcphearson@tbfc.com
+
+> Phishing emails use similar domains of their targets to increase the likelihood the recipient will be tricked into interacting with the email. Who does it say the email was from? (Answer is the email address)
+
+**Answer**: customerservice@t8fc.info
+
+> Sometimes phishing emails have a different reply-to email address. If this email was replied to, what email address will receive the email response?
+
+**Answer**: fisher@tempmailz.grinch
+
+> Less sophisticated phishing emails will have typos. What is the misspelled word?
+
+**Answer**: stright
+
+> The email contains a link that will redirect the recipient to a fraudulent website in an effort to collect credentials. What is the link to the credential harvesting website?
+
+**Answer**: https://89xgwsnmo5.grinch/out/fishing/
+
+> View the email source code. There is an unusual email header. What is the header and its value?
+
+**Answer**: X-GrinchPhish: >;^)
+
+> You received other reports of phishing attempts from other colleagues. Some of the other emails contained attachments. Open attachment.txt. What is the name of the attachment?
+
+**Answer**: password-reset-instructions.pdf
+
+> What is the flag in the PDF file?
+
+**Answer**: THM{A0C_Thr33_Ph1sh1ng_An4lys!s}
+
+## Day 20 - What's the Worst That Could Happen?
+
+> Open the terminal and navigate to the file on the desktop named 'testfile'. Using the 'strings' command, check the strings in the file. There is only a single line of output to the 'strings' command. What is the output?
+
+**Answer**: X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*
+
+> Check the file type of 'testfile' using the 'file' command. What is the file type?
+
+**Answer**: EICAR virus test files
+
+> Calculate the file's hash and search for it on VirusTotal. When was the file first seen in the wild?
+
+**Answer**:  2005-10-17 22:03:48
+
+> On VirusTotal's detection tab, what is the classification assigned to the file by Microsoft?
+
+**Answer**: Virus:DOS/EICAR_Test_File
+
+> Go to [this link](https://www.eicar.org/?page_id=3950) to learn more about this file and what it is used for. What were the first two names of this file?
+
+**Answer**: ducklin.htm or ducklin-html.htm
+
+> The file has 68 characters in the start known as the known string. It can be appended with whitespace characters upto a limited number of characters. What is the maximum number of total characters that can be in the file?
+
+**Answer**: 128
