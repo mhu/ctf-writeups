@@ -509,3 +509,29 @@ No answers needed!
 > Change the Yara rule value for the `$a` string to `X50`. Rerun the command, but this time with the `-c` option. What is the result?
 
 **Answer**: 0
+
+## Day 22 - How It Happened
+
+> What is the username (email address of Grinch Enterprises) from the decoded script?
+
+**Answer**: Grinch.Enterprises.2021@gmail.com
+
+> What is the mailbox password you found?
+
+**Answer**: S@ntai$comingt0t0wn
+
+> What is the subject of the email?
+
+**Answer**: Christmas Wishlist
+
+> What port is the script using to exfiltrate data from the North Pole?
+
+**Answer**: 587
+
+> What is the flag hidden found in the document that Grinch Enterprises left behind?
+
+**Answer**: YouFoundGrinchCookie
+
+> There is still a second flag somewhere... can you find it on the machine?
+
+**Answer**: S@nt@c1Au$IsrEAl
