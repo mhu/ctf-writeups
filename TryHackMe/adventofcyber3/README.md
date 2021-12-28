@@ -535,3 +535,33 @@ No answers needed!
 > There is still a second flag somewhere... can you find it on the machine?
 
 **Answer**: S@nt@c1Au$IsrEAl
+
+## Day 23 - PowershELlF Magic
+
+> What command was executed as Elf McNealy to add a new user to the machine?
+
+**Answer**: Invoke-Nightmare
+
+> What user executed the PowerShell file to send the password.txt file from the administrator's desktop to a remote server?
+
+**Answer**: adm1n
+
+> What was the IP address of the remote server? What was the port used for the remote connection? (format: IP,Port)
+
+**Answer**: 10.10.148.96,4321
+
+> What was the encryption key used to encrypt the contents of the text file sent to the remote server?
+
+**Answer**: j3pn50vkw21hhurbqmxjlpmo9doiukyb
+
+> What application was used to delete the password.txt file?
+
+**Answer**: sdelete.exe
+
+> What is the date and timestamp the logs show that password.txt was deleted? (format: MM/DD/YYYY H:MM:SS PM)
+
+**Answer**: 11/11/2021 7:29:27 PM
+
+> What were the contents of the deleted password.txt file?
+
+**Answer**: Mission Control: letitsnowletitsnowletitsnow
